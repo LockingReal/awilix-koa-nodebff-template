@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://yd-ts-webpack/./src/index.ts"],"names":[],"mappings":";;;;;;AAIA,IAAM,MAAM,GAAU,MAAM,CAAC","file":"main.js","sourcesContent":["interface IYd {\r\n    str:string\r\n}\r\n\r\nconst result:string = '京城一等';"],"sourceRoot":""}
